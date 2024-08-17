@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: React Native
 - 👯 I’m looking to collaborate on: AI Projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dgonzalesi/) | [email](mailto:assay-chill.0l@icloud.com?subject=[GitHub])
-- 😄 Pronouns: He/His
-- 🤔 I’m looking for help with: Nginx
 - ⚡ Fun fact: I still have my first PC (Macintosh Classic II).
 - 📋 My last post in Medium: [is cybersecurity only for developed countries?](https://medium.com/@dgonzalesi285/is-cybersecurity-only-for-developed-countries-c567cd93a0ce)
 - 🥇 Certifications:
